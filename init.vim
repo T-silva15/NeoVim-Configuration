@@ -2,6 +2,7 @@
 "-------------------------------------------------------------------------------------------------------------------------"
 call plug#begin('~/.config/nvim/plugged')
 
+Plug 'github/copilot.vim' " github copilot
 Plug 'vim-airline/vim-airline' " status bar
 Plug 'https://github.com/preservim/tagbar' " tagbar for code navigation
 Plug 'https://github.com/ryanoasis/vim-devicons' " developer Icons
@@ -14,7 +15,6 @@ Plug 'https://github.com/rose-pine/neovim' " colorscheme
 set encoding=UTF-8
 
 call plug#end()
-
 
 
 " CURRENT COLORSCHEME
@@ -92,3 +92,6 @@ let g:airline_symbols.paste = 'ρ'
 let g:airline_symbols.paste = 'Þ'
 let g:airline_symbols.paste = '∥'
 let g:airline_symbols.whitespace = 'Ξ'
+
+
+
