@@ -1,6 +1,6 @@
 **REQUISITS FOR THE CONFIG TO WORK:** 
 
-**vim plug:** sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+**vim plug:** sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'\n
 **exuberant-ctags:** $ sudo apt install exuberant-ctags
 **nodejs(yarn build):** $ sudo apt install npm / npm install yarn ( !! IN DIRECTORY ~/.config/nvim/plugged) 
 **python3:** $ sudo apt install python
