@@ -18,5 +18,7 @@
 **CoC LANGUAGE SERVERS:**
 
 **C:** ":CocInstall coc-clangd"
+
 **Python:** ":CocInstall coc-python"
+
 **Bash:** "CocInstall coc-sh"
