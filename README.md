@@ -8,7 +8,7 @@
 - **nodejs(yarn build):** ```$ sudo apt install npm / npm install yarn ``` **( !! IN DIRECTORY ~/.config/nvim/plugged)**    
     
 	
-- **python3:** ```$ sudo apt install python ```     
+- **python3:** ```$ sudo apt install python3 ```     
 	
 - **pip:** ```$ sudo apt install python3-pip ```    
 	
